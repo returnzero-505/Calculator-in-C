@@ -143,7 +143,8 @@ Some improvements I would like to explore include:
 
 ## Author
 
-Built by a first-year engineering student as a personal project to practise C programming and learn through implementation.
+Amitabh Chatterjee
+ECE Freshman, Heritage Institute of Technology, Kolkata
 
 Feedback, suggestions, and constructive criticism are welcome.
 
